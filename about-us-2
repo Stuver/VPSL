@@ -1,0 +1,15 @@
+table{
+  border-collapse: collapse;
+}
+td {
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+img{
+  width: 65%;
+  height: 65%;
+}
+.name {
+  font-weight: bold;
+}
