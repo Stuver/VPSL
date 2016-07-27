@@ -1,0 +1,25 @@
+<head>
+<style>
+.pdf {
+  align: center;
+  width: 100%;
+  height: 1000px;
+}
+.author{
+  font-size: 14pt;
+  font-weight: 500;
+}
+.inPubYear{
+  font-size: 14pt;
+  font-weight: 300;
+  color: ##8c8c8c;
+}
+.download{
+  font-size: 12pt;
+  font-weight: 100;
+}
+</style>
+</head>
+<span class="author">Huseyin Ayvaz, Alejandra M. Santos, Jennifer Moyseenko, Matthew Kleinhenz, Luis E. Rodriguez-Saona</span> <br/> <span class="inPubYear"> in Plant Foods for Human Nutrition (2015)</span>
+<br/>
+<embed class="pdf" src="u.osu.edu/vegprolab/files/2015/10/Ayvaz-H._ApplicationOfAProtableInfraredInstrument-27r14dm.pdf" height="800px" width="900px">
