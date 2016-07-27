@@ -1,9 +1,8 @@
 <head>
 <style>
-.citation{
   .title{
   font-size: 16pt;
-  font-weight: 900;
+  font-weight: 650;
   color: green;
   }
   .author{
@@ -13,13 +12,11 @@
   .inPubYear{
   font-size: 14pt;
   font-weight: 300;
-  color: #EBECE4;
+  color: ##8c8c8c;
   }
   .download{
   font-size: 12pt;
   font-weight: 100;
-  color: #ECF1EF;
   }
-}
 </style>
 </head>
