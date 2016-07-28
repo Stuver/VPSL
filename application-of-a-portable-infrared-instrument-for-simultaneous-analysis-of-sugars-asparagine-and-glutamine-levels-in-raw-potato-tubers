@@ -5,21 +5,50 @@
   width: 100%;
   height: 1000px;
 }
-.author{
+.author {
   font-size: 14pt;
   font-weight: 500;
 }
-.inPubYear{
+.inPubYear {
   font-size: 14pt;
   font-weight: 300;
   color: ##8c8c8c;
 }
-.download{
-  font-size: 12pt;
-  font-weight: 100;
+.button {
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 4px;
+  color: red;
+  padding: 12px 28px;
+  margin: 4px 2px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+.button:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#authorPubYear {
+  width: 600px;
+  align-content: left;
+}
+#dwnldBtn {
+  width: 300px;
+  position: absolute;
+  right: -100px;
+  top: 120px;
+  display: block;
 }
 </style>
 </head>
+<div>
+<div id="authorPubYear">
 <span class="author">Huseyin Ayvaz, Alejandra M. Santos, Jennifer Moyseenko, Matthew Kleinhenz, Luis E. Rodriguez-Saona</span> <br/> <span class="inPubYear"> in Plant Foods for Human Nutrition (2015)</span>
+</div>
+<div id="dwnldBtn">
+<a href="u.osu.edu/vegprolab/files/2015/10/Ayvaz-H._ApplicationOfAProtableInfraredInstrument-27r14dm.pdf" class="button" target="_blank">Download PDF</a>
+</div>
+<div>
 <br/>
 <embed class="pdf" src="u.osu.edu/vegprolab/files/2015/10/Ayvaz-H._ApplicationOfAProtableInfraredInstrument-27r14dm.pdf" height="800px" width="900px">
