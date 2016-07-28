@@ -29,21 +29,6 @@
 .button:hover{
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
-}
-#authorPubYear {
-  width: 60%;
-  display: inline;
-  position: static;
-  top: 5px;
-  left: 0;
-}
-#dwnldBtn {
-  width: 40%;
-  display: inline;
-  position: static;
-  top: 5px;
-  right: 0;
-}
 </style>
 </head>
 <div width="100%"><a href="u.osu.edu/vegprolab/files/2015/10/Ayvaz-H._ApplicationOfAProtableInfraredInstrument-27r14dm.pdf" class="button" target="_blank">Download PDF</a>
