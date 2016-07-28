@@ -1,22 +1,26 @@
 <head>
 <style>
-  .title{
+.title{
   font-size: 16pt;
   font-weight: 650;
   color: green;
-  }
-  .author{
+  text-decoration: none;
+}
+.author{
   font-size: 14pt;
   font-weight: 500;
-  }
-  .inPubYear{
+}
+.inPubYear{
   font-size: 14pt;
   font-weight: 300;
   color: ##8c8c8c;
-  }
-  .download{
+}
+.download{
   font-size: 12pt;
   font-weight: 100;
-  }
+}
 </style>
 </head>
+<a class="title" href="u.osu.edu/vegprolab/application-of-a-portable-infrared-instrument-for-simultaneous-analysis-of-sugars-asparagine-and-glutamine-levels-in-raw-potato-tubers">Application of a Portable Infrared Instrument For Simultaneous Analysis of Sugars, Asparagine and Glutamine Levels in Raw Potato Tubers</a>
+<span class="author">Huseyin Ayvaz, Alejandra M. Santos, Jennifer Moyseenko, Matthew Kleinhenz, Luis E. Rodriguez-Saona</span><span class="inPubYear"> in Plant Foods for Human Nutrition (2015)</span>
+<a class="download" href="u.osu.edu/vegprolab/files/2015/10/Ayvaz-H._ApplicationOfAProtableInfraredInstrument-27r14dm.pdf" target="_blank">Download PDF</a>
