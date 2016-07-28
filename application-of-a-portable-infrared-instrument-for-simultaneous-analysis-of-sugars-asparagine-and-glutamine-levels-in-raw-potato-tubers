@@ -1,26 +1,40 @@
 <head>
 <style>
-  .title{
-  font-size: 16pt;
-  font-weight: 650;
-  color: green;
-  text-decoration: none;
-  }
-  .author{
+.pdf {
+  align: center;
+  height: 1000px;
+  width: 100%;
+}
+.author {
   font-size: 14pt;
   font-weight: 500;
-  }
-  .inPubYear{
+}
+.inPubYear {
+  color: #8c8c8c;
   font-size: 14pt;
   font-weight: 300;
-  color: ##8c8c8c;
-  }
-  .download{
-  font-size: 12pt;
-  font-weight: 100;
-  }
+}
+.button {
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 4px;
+  color: red;
+  cursor: pointer;
+  float: right;
+  font-size: 18px;
+  padding: 12px 28px;
+  margin-left: 15px
+  margin-bottom: 10px
+  text-align: center;
+  text-decoration: none;
+}
+.button:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
 </style>
 </head>
-<a class="title" href="u.osu.edu/vegprolab/application-of-a-portable-infrared-instrument-for-simultaneous-analysis-of-sugars-asparagine-and-glutamine-levels-in-raw-potato-tubers">Application of a Portable Infrared Instrument For Simultaneous Analysis of Sugars, Asparagine and Glutamine Levels in Raw Potato Tubers</a>
-<span class="author">Huseyin Ayvaz, Alejandra M. Santos, Jennifer Moyseenko, Matthew Kleinhenz, Luis E. Rodriguez-Saona</span><span class="inPubYear"> in Plant Foods for Human Nutrition (2015)</span>
-<a class="download" href="u.osu.edu/vegprolab/files/2015/10/Ayvaz-H._ApplicationOfAProtableInfraredInstrument-27r14dm.pdf" target="_blank">Download PDF</a>
+<div width="100%"><a href="u.osu.edu/vegprolab/files/2015/10/Ayvaz-H._ApplicationOfAProtableInfraredInstrument-27r14dm.pdf" class="button" target="_blank">Download PDF</a>
+<p><span class="author">Huseyin Ayvaz, Alejandra M. Santos, Jennifer Moyseenko, Matthew Kleinhenz, Luis E. Rodriguez-Saona</span><span class="inPubYear"> in Plant Foods for Human Nutrition (2015)</span></p>
+</div>
+<br/>
+<embed class="pdf" src="u.osu.edu/vegprolab/files/2015/10/Ayvaz-H._ApplicationOfAProtableInfraredInstrument-27r14dm.pdf" height="1000px" width="900px">
