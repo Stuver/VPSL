@@ -10,7 +10,7 @@
   font-size: 14pt;
   font-weight: 500;
 }
-.inPubYear{
+.inPub{
   font-size: 14pt;
   font-weight: 300;
   color: ##8c8c8c;
@@ -21,7 +21,41 @@
 }
 </style>
 </head>
-<a class="title" href="http://u.osu.edu/vegprolab/articles/application-of-a-portable-infrared-instrument-for-simultaneous-analysis-of-sugars-asparagine-and-glutamine-levels-in-raw-potato-tubers/">Application of a Portable Infrared Instrument For Simultaneous Analysis of Sugars, Asparagine and Glutamine Levels in Raw Potato Tubers</a>
-<span class="author">H. Ayvaz et al</span><span class="inPubYear"> in Plant Foods for Human Nutrition (2015)</span>
-<a class="download" href="u.osu.edu/vegprolab/files/2015/10/Ayvaz-H._ApplicationOfAProtableInfraredInstrument-27r14dm.pdf" target="_blank">Download PDF</a>
+<!--Template (DO NOT UNCOMMENT!)
+<a class="title" href=""></a>
+<span class="author"></span><span class="inPub"> in </span>
+<a class="download" href="" target="_blank">Download PDF</a>
+<hr>
+-->
+<a class="title" href="">Understanding the Base Cation Saturation (BCSR) Philosophy of Soil and Nutrient Management</a>
+<span class="author">Matt Kleinhenz</span><span class="inPub"> in Vol. 23, No. 14, pp. 4-5</span>
+<a class="download" href="http://u.osu.edu/vegprolab/files/2016/06/7-19-16-VegNet-Vol-23-Issue-14-2b13na8.pdf" target="_blank">Download PDF</a>
+<hr>
+<a class="title href="">Will Grafted Plants be Useful in Processing Tomato Production?</a>
+<span class="author">Matt Kleinhenz</span><span class="inPub"> in Vol. 23, No. 13, pg. 3</span>
+<<a class="download" href="http://u.osu.edu/vegprolab/files/2016/06/7-19-16-VegNet-Vol-23-Issue-14-2b13na8.pdf" target="_blank">Download PDF</a>
+<hr>
+<a class="title" href="">Getting the Most from Crop Biostimulants and Biofertilizers</a>
+<span class="author">Zheng Wang, Julie Laudick, and Matt Kleinhenz</span><span class="inPub"> in Vol. 23, No. 9, pg. 3</span>
+<a class="download" href="http://u.osu.edu/vegprolab/files/2016/06/6-14-16-VegNet-Vol-23-Issue-91-1rrnkj5.pdf" target="_blank">Download PDF</a>
+<hr>
+<a class="title" href="">Three Quick Points About Diagnosing Nutrient Deficiencies</a>
+<span class="author">Matt Kleinhenz</span><span class="inPub"> in Vol. 23, No. 7, pg. 2</span>
+<a class="download" href="http://u.osu.edu/vegprolab/files/2016/06/5-31-16-VegNet-Vol-23-Issue-7myedits-18urxs7.pdf" target="_blank">Download PDF</a>
+<hr>
+<a class="title" href="">Three Things to Look for on Microbe-containing Biofertilizer and Biostimulant Labels</a>
+<span class="author">Julie Laudick, Zheng Wang, and Matt Kleinhenz</span><span class="inPub"> in Vol. 23, No. 5, pp. 7-8</span>
+<a class="download" href="http://u.osu.edu/vegprolab/files/2016/06/5-17-16-VegNet-Vol-23-Issue-5myedits-2apc6jg.pdf" target="_blank">Download PDF</a>
+<hr>
+<a class="title" href="">Research Enhancing Fall-to-Spring High Value Leafy Vegetable Production</a>
+<span class="author">Susie Walden, Sonia Walker and Matt Kleinhenz</span><span class="inPub"> in Vol. 23, No. 3, pp. 5-6</span>
+<a class="download" href="http://u.osu.edu/vegprolab/files/2016/06/5-3-16-VegNet-Vol-23-Issue-3.my-edits-2ltlv3n.pdf" target="_blank">Download PDF</a>
+<hr>
+<a class="title" href="">Strip Tillage and Grafting in Vegetable Production - Results from 2015 and New Study in 2016</a>
+<span class="author">Zheng Wang</span><span class="inPub"> in Vol. 23, No. 3, pp. 3-4</span>
+<a class="download" href="http://u.osu.edu/vegprolab/files/2016/06/5-3-16-VegNet-Vol-23-Issue-3.my-edits-2ltlv3n.pdf" target="_blank">Download PDF</a>
+<hr>
+<a class="title" href="">Strip Tillage and Grafting in Vegetable Production - Results from 2015 and New Study in 2016</a>
+<span class="author">Zheng Wang</span><span class="inPub"> in Vol. 23, No. 2, pg. 2</span>
+<a class="download" href="http://u.osu.edu/vegprolab/files/2016/06/4-26-16-VegNet-Vol-23-Issue-2-1-1ubc3hz.pdf" target="_blank">Download PDF</a>
 <hr>
